@@ -1,45 +1,53 @@
-# Hi! I'm Guilherme Vasconcelos 👋
-
-Currently studying to become a **Desenvolvedor de Software**, aiming to build modern and complete applications.
-
-* **Fun fact:** Adoro codar ouvindo musica 🎧
-
----
-
-## 💻 Minhas Tecnologias (Tech Stack)
-
-Abaixo estão algumas das linguagens e ferramentas que mais utilizo:
-
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /></a>
-  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /></a>
-  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /></a>
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" /></a>
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /></a>
-  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /></a>
+  <h1>Hi! I'm Guilherme Vasconcelos 👋</h1>
+  <p>Atualmente estudando para me tornar um desenvolvedor fullstack, focado em construir aplicações modernas e completas para a web e além. Sou apaixonado por tecnologia, aprendizado contínuo e gosto de ler livros para expandir meu conhecimento.</p>
+  <p>* Fun fact: Adoro codar ouvindo musica 🎧</p>
 </div>
 
+<br>
 ---
-
-## 📊 Estatísticas do GitHub
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeVasconcelosDev&show_icons=true&theme=tokyonight&count_private=true" alt="Guilherme's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVasconcelosDev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/-Java-F8981D?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </div>
 
+<br>
 ---
-
-## 🌟 Sobre mim & Conexão
-
-Além de codar, eu me interesso por novas tecnologias e adoro ouvir música (claro!).
-
-### 🤝 Vamos nos conectar!
-
-Sinta-se à vontade para me contatar.
+<br>
 
 <div align="center">
-  <a href="www.linkedin.com/in/guilherme-vasconcelos-dev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" /></a>
-  <a href="guilhermevasconcelosdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank" alt="Gmail" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeVasconcelosDev&show_icons=true&theme=tokyonight" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVasconcelosDev&layout=compact&theme=tokyonight" height="195" />
+</div>
+
+<br>
+---
+<br>
+
+<div align="center">
+  <h2>Outros Interesses</h2>
+  <p>* Dormir</p>
+  <p>* Explorar novas tecnologias e inovação</p>
+  <p>* Ouvir música (sempre!)</p>
+  <p>* Aprender línguas</p>
+</div>
+
+<br>
+---
+<br>
+
+<div align="center">
+  <a href="www.linkedin.com/in/guilherme-vasconcelos-dev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:"><img src=guilhermevasconcelosdev@gmail.com"https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
