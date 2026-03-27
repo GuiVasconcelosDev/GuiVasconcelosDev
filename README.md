@@ -6,7 +6,7 @@ Atualmente estudando para me tornar um desenvolvedor fullstack, focado em constr
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Java-F8981D?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -23,8 +23,8 @@ Atualmente estudando para me tornar um desenvolvedor fullstack, focado em constr
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuiVasconcelosDev&show_icons=true&theme=tokyonight&hide_border=false" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVasconcelosDev&layout=compact&theme=tokyonight&hide_border=false" height="195" />
+  <img src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=GuiVasconcelosDev&show_icons=true&theme=tokyonight&hide_border=false" height="195" />
+  <img src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=GuiVasconcelosDev&layout=compact&theme=tokyonight&hide_border=false" height="195" />
 </div>
 
 ---
