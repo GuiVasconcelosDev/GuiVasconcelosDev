@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi! I'm Guilherme Vasconcelos 👋
 
-<!--
-**GuiVasconcelosDev/GuiVasconcelosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently studying to become a Desenvolvedor de Software, aiming to build modern and complete applications.
 
-Here are some ideas to get you started:
+* Fun fact: Adoro codar ouvido musica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 💻 Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+
+---
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuiVasconcelosDev&theme=tokyonight&show_icons=true&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVasconcelosDev&theme=tokyonight&layout=compact" />
+</div>
